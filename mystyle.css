@@ -633,7 +633,7 @@ a {
 /* Tooltip Details Panel (Rich Layout with Images) */
 .badge-detail-tooltip {
   position: absolute;
-  bottom: -60px;
+  bottom: -100px;
   left: 50%;
   transform: translateX(-50%);
   width: 92%;
