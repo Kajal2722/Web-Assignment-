@@ -482,14 +482,14 @@ a {
 }
 
 .btn-secondary {
-  background: transparent;
+  background: rgb(55,150,200);
   color: var(--text-dark);
   border: 2px solid rgba(15, 23, 42, 0.2);
 }
 
 .btn-secondary:hover {
   border-color: var(--text-dark);
-  background: rgba(15, 23, 42, 0.04);
+  background: rgb(55,140,233);
   transform: translateY(-2px);
 }
 
